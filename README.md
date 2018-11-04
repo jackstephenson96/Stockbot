@@ -1,4 +1,4 @@
-## Final project for SI 206:
+## Final project for SI 206: Stockbot
 Groupme bot to listen for and return info about stocks, currencies, and cryptos
 
 ## Goals: 
