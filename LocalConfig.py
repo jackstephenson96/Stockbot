@@ -1,1 +1,1 @@
-AlphaKey = "get your API key on the AlphaVantage Webstie"
+AlphaKey = "get your API key on the AlphaVantage Website"
